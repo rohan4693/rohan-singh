@@ -1,4 +1,4 @@
-#include<stdio.h>
+# include<stdio.h>
 int main()
 {
 int R={1,2,3,4};
